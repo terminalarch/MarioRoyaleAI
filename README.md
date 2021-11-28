@@ -7,7 +7,7 @@ The program logs it's decisions and prints it in the console, and you get to wat
 There is absolutely zero strategy, good luck having the "AI" pass the 1-1 goomba.
 
 ## Installation
-You will need a program and pip to run the software
+You will need these tools to run the software
 - Install [Python](https://python.org) from the official website
 - Download/clone this repository then extract it to a folder, then cd into it
 - Install the **pynput** package from pip3
